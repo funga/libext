@@ -5,12 +5,11 @@
 
 Maven 库
 
-'''
-    <dependency>
-    	<groupId>com.google.code.gson</groupId>
-    	<artifactId>gson</artifactId>
-    	<version>2.6.2</version>
-    </dependency>
-'''
+    &lt;dependency>
+    	&lt;groupId>com.google.code.gson&lt;/groupId>
+    	&lt;artifactId>gson&lt;/artifactId>
+    	&lt;version>2.6.2&lt;/version>
+    &lt;/dependency>
+
 
 Gson为Google提供的JSON数据操作类库.
