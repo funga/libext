@@ -1,0 +1,10 @@
+{
+  "name":"FunGa",
+  "age":27,
+  "hobby":["羽毛球","游泳","桌上足球","乒乓球"],
+  "skills":[
+    {"lang":"Java","ide":"IntelliJ IDEA"},
+    {"lang":"Python","ide":"Python Charm"},
+    {"lang":"HTML5","ide":"WebStrom"}
+  ]
+}
